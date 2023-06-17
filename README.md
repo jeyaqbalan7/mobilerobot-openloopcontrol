@@ -125,7 +125,7 @@ Upload your video in Youtube and paste your video-id here
 ## Video:
 https://youtu.be/otz7zJBaYjs
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 
 <br/>
 <br/>
